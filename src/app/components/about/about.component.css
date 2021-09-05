@@ -1,0 +1,32 @@
+
+/*header syles*/
+.header{
+    height: 700px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(0, 0, 0);
+}
+.bg-header{
+    background-image: url("/assets/img/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position-y:-300px;
+}
+.title1{
+    font-size: 6vw!important;
+    background-color: thistle ;
+    opacity:0,5;
+}
+.title2{
+    font-size: 4vw!important;
+    background-color: thistle ;
+    opacity:0,5;
+}
+.title3{
+    font-size: 2vw!important;
+    background-color: thistle ;
+    opacity:0,5; 
+}
